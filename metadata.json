@@ -1,0 +1,6 @@
+{
+  "name": "AI-Driven BudgetWise Tracker",
+  "description": "An intelligent financial tracker with automated AI expense categorization, budget prediction, smart savings recommendations, anomaly detection, and reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
